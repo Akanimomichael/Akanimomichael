@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **any frontend project**
 
-- 🤝 I’m looking for help with **backend**
+<!-- - 🤝 I’m looking for help with **backend**  -->
 
 - 💬 Ask me about **react, JavaScript, CSS,**
 
