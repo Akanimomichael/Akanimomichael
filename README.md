@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Akanimo Michael Asuquo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">I am a passionate frontend developer from Nigeria <img src='https://lh3.googleusercontent.com/-JwOfM1ApKH0/TYL62Rh33sI/AAAAAAAADUM/CEAFL0FdDes/s1600/Nigeria-240-animated-flag-gifs.gif' width ='30' margin ='10' ></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanimomichael&label=Profile%20views&color=0e75b6&style=flat" alt="akanimomichael" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanimomichael" alt="akanimomichael" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"> 
